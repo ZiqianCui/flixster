@@ -198,6 +198,9 @@
                         <viewLayoutGuide key="safeArea" id="Bqw-oy-ZLu"/>
                     </view>
                     <navigationItem key="navigationItem" title="Superhero" id="aGe-7s-QxN"/>
+                    <connections>
+                        <outlet property="collectionView" destination="gS2-dg-HIc" id="60f-0W-g3d"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="lu9-iW-Ilk" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
