@@ -12,7 +12,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 
 #### REQUIRED (10pts)
-- [ ] (2pts) User sees an app icon on the home screen and a styled launch screen.
+- [X] (2pts) User sees an app icon on the home screen and a styled launch screen.
 - [X] (5pts) User can view and scroll through a list of movies now playing in theaters.
 - [X] (3pts) User can view the movie poster image for each movie.
 
@@ -21,9 +21,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthough GIF
-movie.gif
-
-<img src="movie.gif" width=250><br>
+<img src="movie walkthrough.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
+When developing the app, the alignment of the certain labels are not working properly sometimes. Also, when importing the API, sometimes I put into a wrong location.
